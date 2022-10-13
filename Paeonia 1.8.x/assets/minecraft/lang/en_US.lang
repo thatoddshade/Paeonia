@@ -1,0 +1,162 @@
+multiplayer.downloadingTerrain=Loading terrain...
+menu.game=Game Menu
+sign.edit=Edit Sign Message
+
+resourcePack.openFolder=Open Pack Folder
+resourcePack.title=Select Resource Packs
+resourcePack.available.title=Available
+resourcePack.selected.title=Selected
+resourcePack.folderInfo=(Place pack files here)
+resourcePack.incompatible.confirm.title=Are you sure you want to load this pack ?
+resourcePack.incompatible.confirm.old=This pack was made for an older version of Minecraft and may no longer work correctly.
+resourcePack.incompatible.confirm.new=This pack was made for a newer version of Minecraft and may no longer work correctly.
+
+gui.toTitle=Back to Title Screen
+gui.toMenu=Back to Server List
+gui.recipebook.moreRecipes=Right Click for More
+gui.recipebook.toggleRecipes.all=Showing All
+gui.recipebook.toggleRecipes.craftable=Showing Craftable
+
+deathScreen.spectate=Spectate World
+deathScreen.deleteWorld=Delete World
+deathScreen.titleScreen=Title Screen
+deathScreen.title.hardcore=Game Over !
+deathScreen.title=u died !
+deathScreen.leaveServer=Leave Server
+
+build.tooHigh=Height limit for building is %s
+
+
+item.helmetChain.name=Chainmail Helmet
+item.chestplateChain.name=Chainmail Chestplate
+item.leggingsChain.name=Chainmail Leggings
+item.bootsChain.name=Chainmail Boots
+
+tile.clayHardenedStained.black.name=Black Terracotta
+tile.clayHardenedStained.red.name=Red Terracotta
+tile.clayHardenedStained.green.name=Green Terracotta
+tile.clayHardenedStained.brown.name=Brown Terracotta
+tile.clayHardenedStained.blue.name=Blue Terracotta
+tile.clayHardenedStained.purple.name=Purple Terracotta
+tile.clayHardenedStained.cyan.name=Cyan Terracotta
+tile.clayHardenedStained.silver.name=Light Gray Terracotta
+tile.clayHardenedStained.gray.name=Gray Terracotta
+tile.clayHardenedStained.pink.name=Pink Terracotta
+tile.clayHardenedStained.lime.name=Lime Terracotta
+tile.clayHardenedStained.yellow.name=Yellow Terracotta
+tile.clayHardenedStained.lightBlue.name=Light Blue Terracotta
+tile.clayHardenedStained.magenta.name=Magenta Terracotta
+tile.clayHardenedStained.orange.name=Orange Terracotta
+tile.clayHardenedStained.white.name=White Terracotta
+tile.clayHardened.name=Terracotta
+
+item.reeds.name=Sugar Cane
+tile.reeds.name=Sugar Cane
+tile.pumpkin.name=Carved Pumpkin
+tile.anvil.slightlyDamaged.name=Chipped Anvil
+tile.anvil.veryDamaged.name=Damaged Anvil
+tile.enchantmentTable.name=Enchanting Table
+tile.stoneMoss.name=Mossy Cobblestone
+tile.netherBrick.name=Nether Bricks
+tile.stoneSlab.brick.name=Brick Slab
+tile.stoneSlab.smoothStoneBrick.name=Stone Brick Slab
+tile.daylightDetector.name=Daylight Detector
+tile.woolCarpet.white.name=White Carpet
+tile.cloth.white.name=White Wool
+tile.weightedPlate_light.name=Light Weighted Pressure Plate
+tile.weightedPlate_heavy.name=Heavy Weighted Pressure Plate
+
+item.horsearmorgold.name=Golden Horse Armor
+item.redstone.name=Redstone Dust
+item.dyePowder.red.name=Red Dye
+item.dyePowder.green.name=Green Dye
+item.dyePowder.yellow.name=Yellow Dye
+item.seeds.name=Wheat Seeds
+item.fish.cod.raw.name=Raw Cod
+item.fish.clownfish.raw.name=Tropical Fish
+item.fish.cod.cooked.name=Cooked Cod
+item.melon.name=Melon Slice
+item.speckledMelon.name=Glistering Melon Slice
+item.milk.name=Milk Bucket
+item.clay.name=Clay Ball
+
+tile.doublePlant.grass.name=Tall Grass
+tile.commandBlock.name=§dCommand Block
+tile.beacon.name=§bBeacon
+item.enchantedBook.name=§eEnchanted Book
+item.expBottle.name=§eBottle o' Enchanting
+item.skull.skeleton.name=§eSkeleton Skull
+item.skull.wither.name=§eWither Skeleton Skull
+item.skull.zombie.name=§eZombie Head
+item.skull.char.name=§ePlayer Head
+item.skull.player.name=§e%s's Head
+item.skull.creeper.name=§eCreeper Head
+item.netherStar.name=§eNether Star
+item.elytra.name=§eElytra
+tile.dragonEgg.name=§dDragon Egg
+
+tile.monsterStoneEgg.name=Infested Stone
+tile.monsterStoneEgg.stone.name=Infested Stone
+tile.monsterStoneEgg.cobble.name=Infested Cobblestone
+tile.monsterStoneEgg.brick.name=Infested Stone Bricks
+tile.monsterStoneEgg.mossybrick.name=Infested Mossy Stone Bricks
+tile.monsterStoneEgg.crackedbrick.name=Infested Cracked Stone Bricks
+tile.monsterStoneEgg.chiseledbrick.name=Infested Chiseled Stone Bricks
+
+tile.log.oak.name=Oak Log
+tile.log.spruce.name=Spruce Log
+tile.log.birch.name=Birch Log
+tile.log.jungle.name=Jungle Log
+tile.log.acacia.name=Acacia Log
+tile.log.big_oak.name=Dark Oak Log
+
+tile.wood.oak.name=Oak Planks
+tile.wood.spruce.name=Spruce Planks
+tile.wood.birch.name=Birch Planks
+tile.wood.jungle.name=Jungle Planks
+tile.wood.acacia.name=Acacia Planks
+tile.wood.big_oak.name=Dark Oak Planks
+
+tile.woodSlab.oak.name=Oak Slab
+tile.woodSlab.spruce.name=Spruce Slab
+tile.woodSlab.birch.name=Birch Slab
+tile.woodSlab.jungle.name=Jungle Slab
+tile.woodSlab.acacia.name=Acacia Slab
+tile.woodSlab.big_oak.name=Dark Oak Slab
+
+tile.stairsWood.name=Oak Stairs
+tile.stairsWoodSpruce.name=Spruce Stairs
+tile.stairsWoodBirch.name=Birch Stairs
+tile.stairsWoodJungle.name=Jungle Stairs
+tile.stairsWoodAcacia.name=Acacia Stairs
+tile.stairsWoodDarkOak.name=Dark Oak Stairs
+
+tile.sandStone.smooth.name=Cut Sandstone
+tile.redSandStone.smooth.name=Cut Red Sandstone
+
+options.guiScale.small=1x
+options.guiScale.normal=2x
+options.guiScale.large=3x
+options.autoJump=Auto-Jump
+
+
+
+ADVANCEMENTS
+
+gui.achievements=Advancements
+achievement.get=Advancement Made !
+
+achievement.killEnemy.desc=Kill any hostile monster
+achievement.diamonds=Diamonds !
+achievement.diamonds.desc=Acquire diamonds
+achievement.enchantments.desc=Construct an Enchanting Table.
+achievement.bookcase.desc=Build some bookshelves to improve your enchanting table
+achievement.portal.desc=Build, light and enter a Nether Portal
+achievement.theEnd.desc=Enter the End Portal
+achievement.theEnd2=The End
+achievement.spawnWither=Withering Heights
+achievement.killWither=The Beginning
+achievement.fullBeacon.desc=Bring a beacon to full power
+achievement.snipeSkeleton.desc=Kill a Skeleton from at least 50 meters away
+achievement.flyPig.desc=Fly a pig off a cliff
+achievement.exploreAllBiomes.desc=Discover every biome

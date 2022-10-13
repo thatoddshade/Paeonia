@@ -1,0 +1,10 @@
+αβΓπΣσμτΦΘΩδ∞∅∈∩
+
+Close but different: ßøØ
+
+font files changed:
+ascii.png
+unicode_page_01.png
+unicode_page_1d.png
+unicode_page_1e.png
+ascii_sga.png (changed AFTER 1.14.4)
